@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+data/
+*.fastq
+*.fastq.gz
+*.fasta
+*.fna
+*.fna.gz
+*.sig
+*.zip
+*.bam
+*.sh
+!scripts/*.sh
