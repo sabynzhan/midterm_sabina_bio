@@ -1,0 +1,8 @@
+[00:00:00.132] (7e9e3ac0b800) INFO   skani triangle -l data/fna_list.txt -E -t 4 -o data/skani_all.txt
+[00:00:08.861] (7e9e3ac0b800) INFO   Learned ANI mode detected. ANI may be adjusted according to a regression model trained on MAGs.
+[00:00:09.773] (7e9e3a6076c0) INFO   100 query sequences processed.
+[00:00:11.575] (7e9e3ac0b800) INFO   ANI triangle time: 11.443348
+
+real	0m11.616s
+user	0m8.936s
+sys	0m0.886s

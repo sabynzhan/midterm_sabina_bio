@@ -1,0 +1,7 @@
+[00:00:00.000] (7f950d741800) INFO   skani triangle -l data/subset.txt -E -t 4 -o data/skani_subset.txt
+[00:00:00.382] (7f950d741800) INFO   Learned ANI mode detected. ANI may be adjusted according to a regression model trained on MAGs.
+[00:00:00.420] (7f950d741800) INFO   ANI triangle time: 0.42002234
+
+real	0m0.511s
+user	0m0.629s
+sys	0m0.151s
