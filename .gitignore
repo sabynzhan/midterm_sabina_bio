@@ -219,7 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-data/
+data/*
 *.fastq
 *.fastq.gz
 *.fasta
@@ -230,3 +230,5 @@ data/
 *.bam
 *.sh
 !scripts/*.sh
+!data/acc.txt
+!data/retrieval_date.txt
