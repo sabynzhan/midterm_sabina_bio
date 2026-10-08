@@ -1,0 +1,500 @@
+NZ_CP138570.1 Citrobacter braakii strain JX21CE32 chromosome, complete genome
+NZ_CP110900.1 Citrobacter freundii strain CF2206 chromosome, complete genome
+NZ_AP043921.1 Acetobacter okinawensis JCM 25146 chromosome, complete genome
+NZ_CP022151.1 Citrobacter freundii strain 705SK3 chromosome, complete genome
+NZ_CP068211.1 Achromobacter xylosoxidans strain FDAARGOS_1091 chromosome, complete genome
+NZ_CP126339.1 Atlantibacter hermannii strain TL13 chromosome, complete genome
+NZ_CP030880.1 Acinetobacter haemolyticus strain HW-2A chromosome, complete genome
+NZ_CP062474.1 Candidatus Riesia pediculicola strain BR-HL chromosome, complete genome
+NZ_CP126329.1 Citrobacter braakii strain THB2 chromosome, complete genome
+NZ_CP119048.1 Citrobacter freundii strain 26019 chromosome, complete genome
+NZ_AP018365.1 Actinacidiphila reveromycinica strain SN-593 chromosome
+NZ_CP127526.1 Acidithiobacillus montserratensis strain GG1-14 chromosome, complete genome
+NZ_CP115071.1 Citrobacter freundii strain 2022CK-00382 chromosome, complete genome
+NZ_CP181748.1 Citrobacter farmeri strain A24352 chromosome, complete genome
+NZ_CP103833.1 Actinobacillus arthritidis strain CCUG24862 chromosome, complete genome
+NZ_CP097757.1 Blochmannia endosymbiont of Camponotus sp. strain C-024 chromosome, complete genome
+NC_009925.1 Acaryochloris marina MBIC11017, complete sequence
+NZ_CP070559.1 Citrobacter freundii strain CF50935 chromosome, complete genome
+NZ_CP011132.1 Citrobacter amalonaticus Y19 chromosome, complete genome
+NZ_CP101082.1 Citrobacter braakii strain OT129 chromosome, complete genome
+NZ_CP056622.1 Citrobacter freundii strain RHBSTW-00310 chromosome, complete genome
+NZ_CP056595.1 Citrobacter freundii strain RHBSTW-00342 chromosome, complete genome
+NZ_AP023354.1 Actinocatenispora sera strain NBRC 101916 chromosome
+NZ_CP083237.1 Actinomadura madurae strain ATCC 19425 chromosome, complete genome
+NZ_AP014630.1 Acinetobacter guillouiae strain NBRC 110550 chromosome, complete genome
+NZ_CP047279.1 Citrobacter freundii strain N18-04128 chromosome, complete genome
+NZ_CP042478.1 Citrobacter freundii strain C50 chromosome, complete genome
+NZ_CP022521.1 Actinoalloteichus hoggarensis strain DSM 45943 chromosome, complete genome
+NZ_CP014015.2 Citrobacter amalonaticus strain FDAARGOS_122 chromosome, complete genome
+NZ_CP124070.1 Borreliella finlandensis strain Z11 chromosome, complete genome
+NZ_AP029188.1 [Clostridium] nexile DSM 1787 chromosome, complete genome
+NZ_CP097764.1 Blochmannia endosymbiont of Camponotus sp. C-003 chromosome, complete genome
+NZ_CP141645.1 Citrobacter freundii strain NFYY328 chromosome, complete genome
+NZ_OW712331.1 [Clostridium] colinum strain DSM 6011 chromosome 1, complete sequence
+NZ_AP023356.1 Actinoplanes ianthinogenes strain NBRC 13996 chromosome, complete genome
+NZ_CP054294.1 Citrobacter freundii strain IDR1800045912-01-00 chromosome, complete genome
+NZ_CP026056.1 Citrobacter freundii strain FDAARGOS_73 chromosome, complete genome
+NZ_CP013126.1 Acidipropionibacterium acidipropionici strain CGMCC 1.2230 chromosome, complete genome
+NZ_CP129113.1 Aciduricibacillus chroicocephali strain 44XB chromosome, complete genome
+NZ_CP024881.1 Citrobacter freundii strain AR_0022 chromosome, complete genome
+NZ_CP115065.1 Citrobacter freundii strain 2022CK-00275 chromosome, complete genome
+NZ_CP183865.1 Citrobacter braakii strain K1125 chromosome, complete genome
+NC_014109.1 Candidatus Riesia pediculicola USDA, complete sequence
+NZ_LR890181.1 Citrobacter freundii strain MSB1_1H isolate MSB1_1H chromosome 1, complete sequence
+NZ_CP103365.1 Citrobacter freundii strain 140542 chromosome, complete genome
+NZ_CP092860.1 Citrobacter braakii strain P1 chromosome, complete genome
+NZ_CP130946.1 Acidithiobacillus ferruginosus strain CF3 chromosome, complete genome
+NZ_CP080539.1 Citrobacter braakii strain DY2019 chromosome, complete genome
+NZ_CP102272.1 [Clostridium] asparagiforme DSM 15981 chromosome, complete genome
+NZ_CP053391.1 Acinetobacter lactucae isolate QL-1 chromosome, complete genome
+NZ_CP192460.1 Acidovorax facilis strain 37c5 chromosome, complete genome
+NZ_CP056505.1 Citrobacter freundii strain RHBSTW-00449 chromosome, complete genome
+NZ_LN999835.1 Candidatus Hoaglandella endobia isolate HETPER chromosome I, complete sequence
+NZ_CP025228.1 Actinomyces qiguomingii strain actinomyces sp. 410 chromosome, complete genome
+NZ_AP026940.1 Citrobacter freundii strain CF20-4P-1 isolate gut contents of Mastacembelus chromosome, complete genome
+NZ_CP009458.1 Cedecea neteri strain M006 chromosome, complete genome
+NZ_CP016762.1 Citrobacter freundii strain B38 chromosome, complete genome
+NZ_CP137203.1 Citrobacter freundii strain F2613 chromosome, complete genome
+NZ_CP098732.1 Acinetobacter tibetensis strain Y-23 chromosome, complete genome
+NC_010163.1 Acholeplasma laidlawii PG-8A, complete sequence
+NC_015735.1 Candidatus Moranella endobia PCIT, complete sequence
+NZ_CP097765.1 Blochmannia endosymbiont of Camponotus modoc strain C-002 chromosome, complete genome
+NZ_CP136727.1 Citrobacter braakii strain F217 chromosome, complete genome
+NZ_CP140489.1 Citrobacter amalonaticus strain 2023CK-01304 chromosome, complete genome
+NZ_CP023445.1 Actinosynnema pretiosum strain X47 chromosome, complete genome
+NZ_CP157432.1 Acinetobacter nosocomialis strain XH1679 chromosome, complete genome
+NZ_CP137175.1 Citrobacter freundii strain F3517 chromosome, complete genome
+NZ_CP137179.1 Citrobacter freundii strain F4321 chromosome, complete genome
+NZ_CP020468.1 Actinomyces gaoshouyii strain pika_114 chromosome, complete genome
+NZ_CP025227.1 Actinomyces wuliandei strain 299 chromosome, complete genome
+NZ_LR134361.1 Achromobacter insolitus strain NCTC13520 chromosome 1, complete sequence
+NZ_CP059488.1 Acidithiobacillus ferrivorans strain XJFY6S-08 chromosome, complete genome
+NZ_CP098611.1 [Phormidium] yuhuli AB48 chromosome, complete genome
+NC_015850.1 Acidithiobacillus caldus SM-1, complete sequence
+NZ_CP125669.1 Acinetobacter corruptisaponis strain KCTC 92772 chromosome, complete genome
+NZ_CP042524.1 Citrobacter freundii strain E11 chromosome, complete genome
+NZ_CP041362.1 Citrobacter amalonaticus strain 133355-SW-C4-Cam chromosome, complete genome
+NZ_CP056839.1 Citrobacter freundii strain RHBSTW-00126 chromosome, complete genome
+NZ_CP055588.1 Citrobacter freundii strain RHBSTW-00084 chromosome, complete genome
+NZ_CP022049.2 Citrobacter braakii strain FDAARGOS_290 chromosome, complete genome
+NZ_CP056314.1 Citrobacter freundii strain RHBSTW-00830 chromosome, complete genome
+NZ_CM152444.1 Citrobacter braakii strain S10 chromosome, whole genome shotgun sequence
+NZ_CP030753.1 Actinobacillus pleuropneumoniae strain S4074 chromosome, complete genome
+NZ_CP021524.1 Acetobacter ascendens strain SRCM101447 chromosome, complete genome
+NZ_CP035276.1 Citrobacter freundii strain R17 chromosome, complete genome
+NZ_CP045876.1 Candidatus Annandia pinicola isolate Ad13-065 chromosome, complete genome
+NZ_CP097751.1 Candidatus Blochmanniella camponoti strain C-049 chromosome, complete genome
+NZ_CP071409.1 [Pantoea] beijingensis strain JZB2120001 chromosome, complete genome
+NZ_CP024679.1 Citrobacter freundii strain UMH15 chromosome, complete genome
+NZ_CP095401.1 Candidatus Blochmanniella pennsylvanica isolate B_Penn7 chromosome, complete genome
+NZ_CP063074.1 Citrobacter braakii strain JPG1 chromosome, complete genome
+NZ_CP139850.1 Citrobacter freundii strain UKJ86 chromosome, complete genome
+NZ_CP099381.1 Citrobacter braakii strain RHB16-E2-C02 chromosome, complete genome
+NZ_CP058318.1 Citrobacter freundii strain M92 chromosome, complete genome
+NZ_CP099382.1 Citrobacter braakii strain RHB14-SO-C08 chromosome, complete genome
+NZ_AP031589.1 Acidocella aluminiidurans strain AL46 chromosome, complete genome
+NZ_CP056827.1 Citrobacter freundii strain RHBSTW-00135 chromosome, complete genome
+NZ_AP012977.1 Abyssogena phaseoliformis symbiont OG214 chromosome, complete genome
+NZ_CP042517.1 Citrobacter freundii strain E33 chromosome, complete genome
+NZ_CP099390.1 Citrobacter braakii strain RHB02-E3-C05 chromosome, complete genome
+NZ_CP127523.1 Acidithiobacillus ferrianus strain MG chromosome, complete genome
+NZ_CP094358.1 Abyssalbus ytuae strain MT3330 chromosome, complete genome
+NZ_LN999831.1 Candidatus Mikella endobia isolate MEPMAR chromosome I, complete sequence
+NZ_CP024672.1 Citrobacter freundii strain HM38 chromosome, complete genome
+NZ_CP099366.1 Citrobacter braakii strain RHB41-E2-C02 chromosome, complete genome
+NZ_CP137201.1 Citrobacter freundii strain F3221 chromosome, complete genome
+NZ_CP017717.1 [Actinomadura] parvosata subsp. kistnae strain ATCC 55076 chromosome, complete genome
+NZ_CP096905.1 Citrobacter amalonaticus strain RSHH22 chromosome, complete genome
+NZ_CP099291.1 Citrobacter freundii strain RHB03-E1-C03 chromosome, complete genome
+NZ_CP100494.1 Atlantibacter subterraneus strain LH84-a chromosome, complete genome
+NZ_CP099375.1 Citrobacter braakii strain RHB25-E4-C05 chromosome, complete genome
+NZ_CP044483.1 Acinetobacter schindleri strain HZE30-1 chromosome, complete genome
+NZ_CP029397.2 Acinetobacter defluvii strain WCHA30 chromosome, complete genome
+NZ_CP116458.1 Acidithiobacillus ferriphilus strain YL25 chromosome, complete genome
+NZ_CP016076.1 Actinoalloteichus fjordicus strain ADI127-7 chromosome, complete genome
+NZ_CP053642.1 Actinomyces marmotae strain zg-325 chromosome, complete genome
+NZ_CP134767.1 Cedecea neteri strain A2 chromosome, complete genome
+NZ_CP099377.1 Citrobacter braakii strain RHB23-SO-C01 chromosome, complete genome
+NC_009655.1 Actinobacillus succinogenes 130Z, complete sequence
+NZ_CP030140.1 [Mycoplasma] anseris strain ATCC 49234 chromosome, complete genome
+NZ_CP043909.1 Acinetobacter suaedae strain C16S1 chromosome, complete genome
+NZ_CP049608.1 Atlantibacter hermannii strain 78-1320 chromosome, complete genome
+NZ_AP024585.1 Citrobacter amalonaticus strain JCM 1661 chromosome, complete genome
+NZ_CP074435.1 Candidatus Schneideria nysicola isolate NR chromosome
+NZ_CP092142.1 Candidatus Psyllophila symbiotica isolate ET-AT1-13 chromosome, complete genome
+NC_008578.1 Acidothermus cellulolyticus 11B, complete sequence
+NC_014614.1 Acetoanaerobium sticklandii, complete sequence
+NZ_CP137123.1 Citrobacter freundii strain F3021 chromosome, complete genome
+NC_006300.1 [Mannheimia] succiniciproducens MBEL55E, complete sequence
+NZ_OY726397.1 [Mycobacterium] burgundiense strain Mu0053 isolate Mu0053 chromosome 1, complete sequence
+NZ_CP064180.1 Citrobacter amalonaticus strain CA71 chromosome, complete genome
+NZ_CP024673.1 Citrobacter freundii strain UMH19 chromosome, complete genome
+NZ_CP077300.1 Citrobacter braakii strain FDAARGOS 1422 chromosome, complete genome
+NZ_CP137703.1 Citrobacter freundii isolate FELIX_MS689 chromosome, complete genome
+NZ_CP011796.1 Candidatus Blochmannia sayi (nom. nud.) strain 582 voucher CASENT0220422 chromosome, complete genome
+NZ_CP029176.1 Acidibrevibacterium fodinaquatile strain G45-3 chromosome, complete genome
+NZ_CP086287.1 Citrobacter freundii strain DY2010 chromosome, complete genome
+NZ_CP197096.1 Acidithiobacillus sibiricus strain A1 chromosome, complete genome
+NZ_CP056232.1 Citrobacter freundii strain RHBSTW-00965 chromosome, complete genome
+NZ_CP048382.1 Citrobacter freundii strain 62 chromosome, complete genome
+NZ_CP135465.1 Citrobacter freundii strain isolateH chromosome, complete genome
+NC_013740.1 Acidaminococcus fermentans DSM 20731, complete sequence
+NZ_CP115076.1 Citrobacter freundii strain 2021CK-01659 chromosome, complete genome
+NZ_CP047273.1 Citrobacter freundii strain N18-04078 chromosome, complete genome
+NZ_CP009451.1 Cedecea neteri strain SSMD04 chromosome, complete genome
+NZ_CP132976.1 Achromobacter seleniivolatilans strain R39 chromosome, complete genome
+NZ_CP099379.1 Citrobacter braakii strain RHB16-SO-C07 chromosome, complete genome
+NZ_CP130328.1 Acinetobacter variabilis strain TB2-2B chromosome, complete genome
+NZ_CP110080.1 Buttiauxella sp. WJP83 chromosome, complete genome
+NZ_CP045851.1 Actinomarinicola tropica strain SCSIO 58843 chromosome, complete genome
+NZ_CP137128.1 Citrobacter freundii strain F3121 chromosome, complete genome
+NZ_CP176394.1 Acidaminobacterium chupaoyuni strain LBM23126 chromosome, complete genome
+NZ_CP045110.1 Acinetobacter baumannii strain ATCC 19606 chromosome, complete genome
+NZ_OZ193413.1 Candidatus Curculioniphilus buchneri endosymbiont of Curculio glandium isolate 6e1ca57e-09da-49ce-bd0a-402a6b7c547f chromosome 1, complete sequence
+NZ_CP097749.1 Candidatus Blochmanniella camponoti strain C-056 chromosome, complete genome
+NZ_CP077405.1 Citrobacter braakii strain FDAARGOS 1421 chromosome, complete genome
+NZ_CP110498.1 Candidatus Purcelliella pentastirinorum isolate OFIL2 chromosome, complete genome
+NZ_CP041970.1 Acinetobacter dispersus strain NCCP 16014 chromosome, complete genome
+NZ_CP042534.1 Citrobacter freundii strain E51 chromosome, complete genome
+NZ_CP047269.1 Citrobacter freundii strain N16-03880 chromosome, complete genome
+NZ_CP056653.1 Citrobacter freundii strain RHBSTW-00214 chromosome, complete genome
+NZ_CP009459.1 Cedecea neteri strain ND14a chromosome, complete genome
+NZ_CP048416.1 Citrobacter freundii strain CitB chromosome, complete genome
+NZ_CP139439.1 Cedecea neteri strain A1 chromosome, complete genome
+NZ_CM136904.1 Cellulomonas bogoriensis strain 69B4 chromosome, whole genome shotgun sequence
+NC_007292.1 Candidatus Blochmanniella pennsylvanica str. BPEN, complete sequence
+NZ_CP056235.1 Citrobacter freundii strain RHBSTW-00942 chromosome, complete genome
+NZ_OY726398.1 [Mycobacterium] holstebronense strain Mu0102 isolate Mu0102 chromosome 1, complete sequence
+NZ_CP117193.1 Acidovorax temperans strain LMJ chromosome, complete genome
+NZ_CP115099.1 Citrobacter freundii strain 2022CK-00246 chromosome, complete genome
+NZ_CP097897.1 Acetobacterium wieringae strain CH1 chromosome, complete genome
+NZ_CP125628.1 [Clostridium] symbiosum strain LM19R chromosome, complete genome
+NZ_CP060441.1 Citrobacter cronae strain S175-1 chromosome, complete genome
+NZ_CP124809.1 Citrobacter freundii strain CF13 chromosome, complete genome
+NZ_CP099378.1 Citrobacter braakii strain RHB21-E1-C04 chromosome, complete genome
+NZ_CP024677.1 Citrobacter freundii strain UMH16 chromosome, complete genome
+NZ_AP043913.1 Acetivibrio straminisolvens strain JCM 21531 chromosome, complete genome
+NZ_CP011794.1 Blochmannia endosymbiont of Camponotus quercicola strain 539 voucher CASENT0220226 chromosome, complete genome
+NZ_AP028461.1 Actinoplanes sichuanensis strain 03-723 chromosome, complete genome
+NZ_CP186005.1 Actinoalloteichus caeruleus strain LHW52806 chromosome, complete genome
+NZ_CP114564.1 Citrobacter freundii strain 2953647 chromosome, complete genome
+NZ_CP014859.1 Actinoalloteichus hymeniacidonis strain HPA177 chromosome, complete genome
+NZ_CP056809.1 Citrobacter freundii strain RHBSTW-00162 chromosome, complete genome
+NZ_CP023865.1 Actinoplanes teichomyceticus ATCC 31121 chromosome, complete genome
+NZ_CM166503.1 Actinoplanes siamensis strain TBRC 4237 chromosome, whole genome shotgun sequence
+NZ_CP046533.1 Blochmannia endosymbiont of Colobopsis nipponica isolate CNIPBac chromosome, complete genome
+NZ_CP123364.1 Achromobacter mucicolens strain Y3 chromosome, complete genome
+NZ_CP039846.2 Acetobacter pasteurianus strain CICC 22518 chromosome, complete genome
+NZ_CP155569.1 [Mycoplasma] cavipharyngis strain 117C chromosome, complete genome
+NZ_CP028374.1 Candidatus Purcelliella pentastirinorum strain OLIH chromosome, complete genome
+NZ_CP097760.1 Blochmannia endosymbiont of Camponotus sp. strain C-016 chromosome, complete genome
+NZ_CP119165.1 Citrobacter freundii strain 2075 chromosome, complete genome
+NZ_CP092144.1 Candidatus Psyllophila symbiotica isolate Cmel17 chromosome, complete genome
+NZ_CP097753.1 Candidatus Blochmannia vicinus (nom. nud.) strain C-039 chromosome, complete genome
+NZ_CP035934.2 Acinetobacter cumulans strain WCHAc060092 chromosome, complete genome
+NC_014376.1 [Clostridium] saccharolyticum WM1, complete sequence
+NZ_AP025566.1 [Clostridium] hylemonae strain CE91-St63 chromosome, complete genome
+NZ_CP115056.1 Citrobacter freundii strain 2021CK-01310 chromosome, complete genome
+NZ_CM129778.1 Citrobacter freundii strain CB00028 chromosome, whole genome shotgun sequence
+NZ_CP148066.1 [Mycoplasma] gypis strain B1/T1 chromosome, complete genome
+NZ_CP047275.1 Citrobacter freundii strain N18-04085 chromosome, complete genome
+NZ_CP099303.1 Citrobacter freundii strain RHB02-E1-C01 chromosome, complete genome
+NZ_CP124548.1 Actinomyces israelii strain F0345 chromosome, complete genome
+NZ_CP101066.1 Citrobacter cronae strain OT154 chromosome, complete genome
+NZ_CP148084.1 Citrobacter europaeus strain WF1643 chromosome, complete genome
+NZ_CP045650.1 Acinetobacter wanghuae strain dk386 chromosome, complete genome
+NZ_CP126536.1 Citrobacter freundii strain CRNMS1 chromosome, complete genome
+NZ_CP099389.1 Citrobacter braakii strain RHB02-E4-C01 chromosome, complete genome
+NZ_CP049916.1 Acinetobacter lanii strain 185 chromosome, complete genome
+NZ_CP035282.1 Acidilutibacter cellobiosedens strain JN-28 chromosome, complete genome
+NZ_CP059849.1 Citrobacter freundii strain 3863 chromosome, complete genome
+NZ_CP025030.1 Achromobacter spanius strain DSM 23806 chromosome, complete genome
+NZ_CP073241.1 Acinetobacter soli strain M3-1-68 chromosome, complete genome
+NZ_CP055247.1 Citrobacter freundii strain ZY198 chromosome, complete genome
+NZ_CP099387.1 Citrobacter braakii strain RHB08-E3-C01 chromosome, complete genome
+NZ_LR134477.1 Actinomyces viscosus strain NCTC10951 chromosome 1, complete sequence
+NZ_CP033744.1 Citrobacter freundii strain FDAARGOS_549 chromosome, complete genome
+NZ_CP022374.1 Acetobacter oryzifermentans strain dm chromosome, complete genome
+NZ_CP096921.1 Citrobacter freundii strain NY2385 chromosome, complete genome
+NZ_CP099374.1 Citrobacter braakii strain RHB25-SO-C06 chromosome, complete genome
+NZ_CP099217.1 Citrobacter freundii strain RHB16-SO-C03 chromosome, complete genome
+NZ_CP056466.1 Citrobacter freundii strain RHBSTW-00486 chromosome, complete genome
+NZ_CP066060.1 Actinomyces oris strain FDAARGOS_1051 chromosome, complete genome
+NZ_CP119862.1 Citrobacter enshiensis strain S171 chromosome, complete genome
+NZ_CM183922.1 Citrobacter braakii strain GMM050 chromosome, whole genome shotgun sequence
+NZ_CP022695.1 Citrobacter farmeri strain AUSMDU00008141 chromosome, complete genome
+NZ_OZ260903.1 Acetobacter cerevisiae strain VUB-H039 E5 isolate ACVUBH039E5 chromosome 1, complete sequence
+NZ_CP036263.1 Adhaeretor mobilis strain HG15A2 chromosome, complete genome
+NZ_CP133838.1 Buttiauxella selenatireducens strain R73 chromosome, complete genome
+NZ_CP099376.1 Citrobacter braakii strain RHB23-SO-C04 chromosome, complete genome
+NC_014909.2 Candidatus Blochmanniella vafra str. BVAF, complete sequence
+NZ_CP085726.1 Citrobacter freundii strain 56415CZ chromosome, complete genome
+NZ_CP022273.1 Citrobacter freundii strain 18-1 chromosome, complete genome
+NZ_OZ260804.1 Acetobacter orientalis strain VUB-H056 E3 isolate AOVUBH056E3 chromosome 1, complete sequence
+NZ_CP133852.1 Citrobacter freundii strain CF2 chromosome, complete genome
+NZ_CP097755.1 Blochmannia endosymbiont of Camponotus sp. strain C-029 chromosome, complete genome
+NZ_CP031716.1 Acinetobacter wuhouensis strain WCHA60 chromosome, complete genome
+NZ_CP115083.1 Citrobacter freundii strain 2022CK-00315 chromosome, complete genome
+NC_016603.1 Acinetobacter pittii PHEA-2 chromosome, complete genome
+NZ_CM148354.1 Citrobacter europaeus isolate 38M23CPO030A chromosome, whole genome shotgun sequence
+NZ_CP010049.1 Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus strain 757 chromosome, complete genome
+NC_021057.1 Candidatus Moranella endobia PCVAL, complete sequence
+NC_014618.1 [Enterobacter] lignolyticus SCF1, complete sequence
+NZ_CP124050.1 Borreliella lusitaniae strain PotiB2 chromosome, complete genome
+NZ_CP011657.1 Citrobacter freundii strain CAV1741 chromosome, complete genome
+NZ_CP037864.1 Citrobacter arsenatis strain LY-1 chromosome, complete genome
+NC_022549.1 Acholeplasma brassicae, complete sequence
+NZ_LN606600.1 Acetobacter senegalensis strain 108B chromosome I, complete sequence
+NZ_AP029191.1 Actinomadura rugatobispora strain JCM 3366 chromosome, complete genome
+NC_020075.1 Candidatus Blochmanniella chromaiodes str. 640, complete sequence
+NZ_CP124018.1 Borreliella turdi strain Ya501 chromosome, complete genome
+NZ_CP056592.1 Citrobacter freundii strain RHBSTW-00350 chromosome, complete genome
+NZ_CP056635.1 Citrobacter freundii strain RHBSTW-00302 chromosome, complete genome
+NZ_CM149568.1 Atlantibacter sp. MEI4A-1023 chromosome, whole genome shotgun sequence
+NZ_OY726395.1 [Mycobacterium] wendilense strain Mu0050 isolate Mu0050 chromosome 1, complete sequence
+NZ_CP139745.1 Citrobacter freundii isolate FELIX_MS432 chromosome, complete genome
+NZ_CM127095.1 Citrobacter braakii strain SCGY-1L chromosome, whole genome shotgun sequence
+NZ_CP099298.1 Citrobacter freundii strain RHB02-E3-C01 chromosome, complete genome
+NZ_CP016303.1 Candidatus Hamiltonella defensa (Bemisia tabaci) strain MEAM1 chromosome, complete genome
+NZ_CP157435.1 Acinetobacter sp. XH1639 chromosome, complete genome
+NZ_CP172054.1 Cedecea davisae strain 739Q chromosome, complete genome
+NC_014219.1 [Bacillus] selenitireducens MLS10, complete sequence
+NC_016894.1 Acetobacterium woodii DSM 1030, complete sequence
+NZ_CP156787.1 Acinetobacter thermotolerans strain ANC 7924 chromosome, complete genome
+NZ_CP099364.1 Citrobacter braakii strain RHB44-SE-C08 chromosome, complete genome
+NC_014378.1 Acetohalobium arabaticum DSM 5501, complete sequence
+NZ_CP118963.1 Acinetobacter lwoffii strain DSM 2403 chromosome, complete genome
+NZ_CP033742.1 Citrobacter freundii strain FDAARGOS_550 chromosome, complete genome
+NZ_CP057864.1 Citrobacter freundii strain RHB12-C19 chromosome, complete genome
+NZ_CP047307.1 Citrobacter freundii strain L75 chromosome, complete genome
+NZ_CP021359.1 Acidovorax carolinensis strain NA2 chromosome, complete genome
+NZ_CP066802.1 Actinomyces weissii strain CCUG 61299 chromosome, complete genome
+NZ_CP137183.1 Citrobacter freundii strain F1917 chromosome, complete genome
+NZ_CP180152.1 Citrobacter amalonaticus isolate 2024CK-01695 chromosome, complete genome
+NZ_CP033076.1 Buttiauxella sp. 3AFRM03 chromosome, complete genome
+NZ_CP118440.1 Citrobacter amalonaticus strain DC chromosome, complete genome
+NZ_CP014228.1 Actinomyces radicidentis strain CCUG 36733 chromosome, complete genome
+NZ_CP192011.1 Actinomadura formosensis strain CS-045256 chromosome, complete genome
+NZ_OZ026542.1 Candidatus Regiella endosymbiont of Tuberolachnus salignus isolate 50df7a5c-45bd-4916-af13-c11c5892e7e1 chromosome 1, complete sequence
+NZ_CP097754.1 Blochmannia endosymbiont of Camponotus modoc strain C-036 chromosome, complete genome
+NZ_CP042941.1 Atlantibacter hermannii strain ATCC 33651 chromosome, complete genome
+NZ_AP035783.1 Acidovorax sacchari strain HC-19 chromosome, complete genome
+NZ_CP010048.1 Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri strain 675 voucher UCD:CASENT0220426 chromosome, complete genome
+NZ_CP011792.1 Candidatus Blochmannia americanus (nom. nud.) strain 462 voucher CASENT0220290 chromosome, complete genome
+NZ_CP060096.1 Aceticella autotrophica strain 3443-3Ac chromosome, complete genome
+NZ_CP043506.1 Acetobacter vaccinii strain KACC 21233 chromosome, complete genome
+NZ_AP018795.1 Acidithiobacillus ferridurans strain JCM 18981 chromosome, complete genome
+NZ_CP056208.1 Citrobacter freundii strain RHBSTW-00985 chromosome, complete genome
+NZ_CP097762.1 Candidatus Blochmannia ocreatus (nom. nud.) strain C-006 chromosome, complete genome
+NZ_CP098330.1 Citrobacter freundii strain 59174 chromosome, complete genome
+NZ_CP097763.1 Candidatus Blochmannia vicinus (nom. nud.) strain C-005 chromosome, complete genome
+NZ_CP048838.1 [Clostridium] innocuum strain ATCC 14501 chromosome, complete genome
+NZ_CP016895.1 Acinetobacter larvae strain BRTC-1 chromosome, complete genome
+NZ_CP077291.1 Citrobacter farmeri strain FDAARGOS 1423 chromosome, complete genome
+NZ_CP040635.1 Acidipropionibacterium jensenii strain FAM 19038 chromosome, complete genome
+NZ_OZ026471.1 Candidatus Hamiltonella endosymbiont of Tuberolachnus salignus isolate eee46e84-88ba-4997-9627-ba9a3c08c7b3 chromosome 1
+NZ_CP092463.1 Citrobacter freundii strain Cf7308 chromosome, complete genome
+NZ_AP025017.1 Actinomyces capricornis strain MAS-1 chromosome, complete genome
+NZ_CM143425.1 Citrobacter braakii strain TH15 chromosome, whole genome shotgun sequence
+NZ_CP070549.1 Citrobacter freundii strain CF49969 chromosome, complete genome
+NZ_CP118774.1 Citrobacter braakii strain ASE1 chromosome, complete genome
+NZ_CP127527.1 Acidithiobacillus sulfuriphilus strain CJ-2 chromosome, complete genome
+NZ_CP045571.1 Acidithiobacillus thiooxidans ATCC 19377 chromosome, complete genome
+NZ_CP037734.1 Citrobacter freundii strain CAV1857 chromosome, complete genome
+NZ_CP024683.1 Citrobacter freundii strain UMH13 chromosome, complete genome
+NZ_CP056451.1 Citrobacter freundii strain RHBSTW-00502 chromosome, complete genome
+NZ_CP023525.1 Cedecea neteri strain FDAARGOS_392 chromosome, complete genome
+NZ_LR134201.1 Cedecea lapagei strain NCTC11466 chromosome 1, complete sequence
+NZ_CP110775.1 Citrobacter freundii strain Cf-Emp chromosome, complete genome
+NZ_CM183916.1 Citrobacter braakii strain GMM075 chromosome, whole genome shotgun sequence
+NZ_CM166493.1 Acidovorax radicis N35 chromosome, whole genome shotgun sequence
+NZ_CP137133.1 Citrobacter freundii strain F3419 chromosome, complete genome
+NZ_CP099384.1 Citrobacter braakii strain RHB13-SO-C07 chromosome, complete genome
+NZ_CP148753.1 Achromobacter veterisilvae strain AB1 chromosome, complete genome
+NZ_CP176700.1 Citrobacter braakii strain GTVSS-028 chromosome, complete genome
+NZ_CP196670.1 Acinetobacter bohemicus strain E2PVAC1 chromosome, complete genome
+NZ_CP097756.1 Candidatus Blochmannia vicinus (nom. nud.) strain C-028 chromosome, complete genome
+NZ_CP126994.1 Acidisoma cladoniae strain PAMC 29798 chromosome, complete genome
+NZ_CP080958.1 Citrobacter amalonaticus strain C3H chromosome, complete genome
+NZ_CP053987.1 Achromobacter denitrificans strain FDAARGOS_786 chromosome, complete genome
+NZ_CM176355.1 Citrobacter farmeri strain CAVP754 chromosome, whole genome shotgun sequence
+NZ_CP146086.1 Actinomadura luteofluorescens strain YN2 chromosome, complete genome
+NZ_CP109144.1 Actinacidiphila glaucinigra strain NBC 01746 chromosome, complete genome
+NZ_CP059427.1 Citrobacter freundii strain CIFR51929 chromosome, complete genome
+NZ_CP016952.1 Citrobacter freundii strain SL151 chromosome, complete genome
+NC_011992.1 [Acidovorax] ebreus TPSY, complete sequence
+NZ_CP092493.1 Citrobacter freundii strain SCLZS47 chromosome, complete genome
+NZ_CP110496.1 Candidatus Purcelliella pentastirinorum isolate OPOL2 chromosome, complete genome
+NZ_AP014521.1 Candidatus Tachikawaea gelatinosa strain UwTKB chromosome, complete genome
+NZ_CP074100.1 Candidatus Schneideria nysicola isolate NT chromosome, complete genome
+NZ_CP178606.1 Acinetobacter sp. A7.4 chromosome, complete genome
+NZ_CP045925.1 Candidatus Profftia lariciata isolate Ad13-081 chromosome, complete genome
+NZ_CP101080.1 Citrobacter cronae strain OT130 chromosome, complete genome
+NZ_CP139781.1 Actomonas aquatica strain WL0086 chromosome, complete genome
+NZ_CP124034.1 Borreliella tanukii strain Koshiki4E chromosome, complete genome
+NZ_CP034726.1 Acetilactobacillus jinshanensis strain HSLZ-75 chromosome, complete genome
+NZ_LR746496.1 Acididesulfobacillus acetoxydans isolate PacBioINE chromosome 1
+NZ_CP101089.1 Citrobacter cronae strain OT84 chromosome, complete genome
+NZ_CP011795.1 Candidatus Blochmannia sansabeanus (nom. nud.) strain 602 voucher CASENT0220389 chromosome, complete genome
+NZ_LR134510.1 Actinobacillus delphinicola strain NCTC12871 chromosome 1, complete sequence
+NZ_CP136047.1 Citrobacter freundii strain CPO20180081 chromosome, complete genome
+NZ_LR134310.1 Actinobacillus equuli strain NCTC8529 chromosome 1, complete sequence
+NZ_CP055582.1 Citrobacter freundii strain RHBSTW-00110 chromosome, complete genome
+NZ_CP056181.1 Citrobacter freundii strain RHBSTW-01016 chromosome, complete genome
+NZ_CP063989.1 Actinomyces respiraculi strain ZJ750 chromosome, complete genome
+NC_013093.1 Actinosynnema mirum DSM 43827, complete sequence
+NZ_CP114249.1 Citrobacter braakii strain V22220114 chromosome, complete genome
+NZ_CP137166.1 Citrobacter braakii strain F418 chromosome, complete genome
+NZ_CM185165.1 Citrobacter farmeri strain P1 chromosome, whole genome shotgun sequence
+NZ_AP023355.1 Actinocatenispora thailandica strain NBRC 105041 chromosome
+NZ_CP038145.1 Actinobacillus indolicus strain AIFJ1607 chromosome, complete genome
+NZ_CP032184.1 Citrobacter freundii strain AR_0116 chromosome, complete genome
+NZ_CP137117.1 Citrobacter freundii strain F2119 chromosome, complete genome
+NZ_CP056365.1 Citrobacter freundii strain RHBSTW-00658 chromosome, complete genome
+NC_017093.1 Actinoplanes missouriensis 431, complete sequence
+NZ_CP039292.1 Actinomyces procaprae strain dk561 chromosome, complete genome
+NZ_CP097759.1 Blochmannia endosymbiont of Camponotus sp. strain C-018 chromosome, complete genome
+NZ_AP023184.1 Buttiauxella agrestis strain DSM 9389 chromosome, complete genome
+NZ_LR134363.1 Actinomyces slackii strain NCTC11923 chromosome 1, complete sequence
+NZ_OY726394.1 [Mycobacterium] kokjensenii strain Mu0083 isolate Mu0083 chromosome 1, complete sequence
+NZ_CM148578.1 Citrobacter braakii strain W419 chromosome, whole genome shotgun sequence
+NC_011761.1 Acidithiobacillus ferrooxidans ATCC 23270, complete sequence
+NZ_CP015425.1 [Haemophilus] ducreyi strain VAN2 chromosome, complete genome
+NZ_CP097107.1 Citrobacter freundii strain GMU8049 chromosome, complete genome
+NC_005966.1 Acinetobacter baylyi ADP1, complete sequence
+NZ_CP097761.1 Blochmannia endosymbiont of Camponotus sp. strain C-010 chromosome, complete genome
+NZ_CP187320.1 Citrobacter braakii strain A1B10 chromosome, complete genome
+NZ_CP113163.1 Citrobacter braakii strain LBA3 chromosome, complete genome
+NZ_CP157428.1 Acinetobacter sp. XH1741 chromosome, complete genome
+NZ_CM174445.1 Acidisoma sibiricum strain TPB606 chromosome, whole genome shotgun sequence
+NZ_CP056256.1 Citrobacter freundii strain RHBSTW-00902 chromosome, complete genome
+NZ_CP047043.1 Candidatus Gillettellia adelgis isolate 19-005 chromosome, complete genome
+NZ_CP012808.1 Acinetobacter equi strain 114 chromosome, complete genome
+NZ_CP024680.1 Citrobacter freundii strain UMH14 chromosome, complete genome
+NZ_CP038656.1 Citrobacter freundii strain 565 chromosome, complete genome
+NZ_CP081314.1 Citrobacter farmeri strain CCRI-24236 chromosome, complete genome
+NZ_CP070544.1 Citrobacter freundii strain CF48846 chromosome, complete genome
+NZ_AP026382.1 Citrobacter braakii strain KAM621 chromosome, complete genome
+NZ_CP022752.1 Actinopolyspora erythraea strain YIM 90600 chromosome, complete genome
+NZ_AP010872.1 Candidatus Ishikawaella capsulata Mpkobe chromosome, complete genome
+NZ_CP045726.1 Citrobacter freundii strain zone4 chromosome, complete genome
+NZ_CP110499.1 Candidatus Purcelliella pentastirinorum isolate OFIL1 chromosome, complete genome
+NC_022657.1 Actinoplanes friuliensis DSM 7358, complete sequence
+NZ_CM176322.1 Citrobacter farmeri strain CAVP882 chromosome, whole genome shotgun sequence
+NZ_CP135622.1 Citrobacter freundii strain 202212 chromosome, complete genome
+NZ_CP059558.1 Acinetobacter junii strain YR7 chromosome, complete genome
+NZ_CP135469.1 Citrobacter freundii strain isolateG chromosome, complete genome
+NZ_AP024595.1 Acinetobacter bouvetii strain JCM 18991 chromosome, complete genome
+NZ_CP115129.1 Citrobacter freundii strain 2021CK-01443 chromosome, complete genome
+NZ_CM169470.1 Citrobacter amalonaticus strain 23_20 chromosome, whole genome shotgun sequence
+NZ_CP056336.1 Citrobacter freundii strain RHBSTW-00697 chromosome, complete genome
+NZ_CP056852.1 Citrobacter freundii strain RHBSTW-00119 chromosome, complete genome
+NZ_LN774881.1 Candidatus Westeberhardia cardiocondylae strain obscurior isolate BR-alpha chromosome I, complete sequence
+NZ_CP065700.1 Atlantibacter hermannii strain FDAARGOS_888 chromosome, complete genome
+NZ_CP136960.1 Actinotignum timonense strain UMB0063 chromosome, complete genome
+NZ_CP030031.1 Acinetobacter radioresistens strain LH6 chromosome, complete genome
+NZ_CP030840.1 Acidisarcina polymorpha strain SBC82 chromosome, complete genome
+NZ_CP110914.1 Citrobacter freundii strain CFA1707 chromosome, complete genome
+NZ_CM167676.1 Atlantibacter hermannii strain SMU6841 chromosome, whole genome shotgun sequence
+NZ_CP011793.1 Blochmannia endosymbiont of Camponotus pudorosus strain 544 voucher CASENT0220371 chromosome, complete genome
+NZ_CP029206.1 Actinobacillus porcitonsillarum strain 9953L55 chromosome, complete genome
+NZ_CP009159.1 Actinobacillus suis ATCC 33415 chromosome, complete genome
+NZ_CP113784.1 Citrobacter freundii strain CFSAN077772 chromosome, complete genome
+NZ_CP056573.1 Citrobacter freundii strain RHBSTW-00370 chromosome, complete genome
+NZ_LT556085.1 Citrobacter amalonaticus strain 92 chromosome CITRO92, complete sequence
+NZ_CP046534.1 Blochmannia endosymbiont of Camponotus nipponensis isolate CNIEBac chromosome, complete genome
+NZ_CP017415.1 Acidihalobacter yilgarnensis strain F5 chromosome, complete genome
+NZ_CP056245.1 Citrobacter freundii strain RHBSTW-00915 chromosome, complete genome
+NZ_CP054278.1 Citrobacter freundii strain IDR1900015725-01-02 chromosome, complete genome
+NZ_CP029295.1 [Mycoplasma] phocae strain 105 chromosome, complete genome
+NZ_CP183064.1 Citrobacter braakii strain FAHZZU5618 chromosome, complete genome
+NC_013124.1 Acidimicrobium ferrooxidans DSM 10331, complete sequence
+NC_014618.1 [Enterobacter] lignolyticus SCF1, complete sequence
+NZ_CP099037.1 Citrobacter freundii strain RHB44-SO-C05 chromosome, complete genome
+NZ_LR890047.1 Candidatus Profftia tarda isolate PROFFT chromosome 1, complete sequence
+NZ_CP099128.1 Citrobacter freundii strain RHB31-E4-C06 chromosome, complete genome
+NZ_CP137195.1 Citrobacter freundii strain F2021 chromosome, complete genome
+NZ_CP044535.1 Borrelia maritima strain CA690 chromosome, complete genome
+NZ_CP080506.1 Candidatus Profftia sp. (ex Adelges kitamiensis) isolate Adelges kitamiensis 18-608 chromosome, complete genome
+NZ_CP080624.1 Acidiferrobacter thiooxydans strain ZJ chromosome, complete genome
+NZ_CP101044.1 Citrobacter braakii strain OT113 chromosome, complete genome
+NZ_CM129810.1 Citrobacter braakii strain CB00017 chromosome, whole genome shotgun sequence
+NZ_LR134350.1 Actinomyces howellii strain NCTC11636 chromosome 1, complete sequence
+NZ_CP154825.1 Actinokineospora auranticolor strain DSM 44650 chromosome, complete genome
+NC_014248.1 'Nostoc azollae' 0708, complete sequence
+NZ_CP065027.1 Actinomyces trachealis strain zg-993 chromosome, complete genome
+NZ_CP038653.1 Citrobacter freundii strain 154 chromosome, complete genome
+NZ_CP102249.1 Acidaminococcus intestini strain D21 chromosome, complete genome
+NZ_CP063418.1 Actinomyces faecalis strain ZJ34 chromosome, complete genome
+NZ_CP102292.1 [Ruminococcus] lactaris ATCC 29176 chromosome, complete genome
+NZ_CP144371.1 Candidatus Blochmannia sp. SNP chromosome, complete genome
+NC_012483.1 Acidobacterium capsulatum ATCC 51196, complete sequence
+NC_015186.1 Acidiphilium multivorum AIU301, complete sequence
+NZ_LN999832.1 Candidatus Gullanella endobia isolate GEFVIR chromosome I, complete sequence
+NZ_CP032134.1 Acinetobacter chinensis strain WCHAc010005 chromosome, complete genome
+NZ_CP137717.1 Citrobacter freundii isolate FELIX_MS690 chromosome, complete genome
+NZ_CP053988.1 Abiotrophia defectiva strain FDAARGOS_785 chromosome, complete genome
+NZ_CP115052.1 Citrobacter freundii strain 2021CK-01442 chromosome, complete genome
+NC_009012.1 Acetivibrio thermocellus ATCC 27405, complete sequence
+NZ_LT556084.1 Citrobacter amalonaticus strain 86 chromosome CITRO86, complete sequence
+NZ_CP099388.1 Citrobacter braakii strain RHB03-E1-C02 chromosome, complete genome
+NZ_CP036170.1 [Clostridium] scindens ATCC 35704 chromosome, complete genome
+NZ_CP055156.1 Adhaeribacter swui strain KCTC 52873 chromosome, complete genome
+NZ_CP095732.1 Abyssibius alkaniclasticus strain 960558 chromosome, complete genome
+NZ_CP056527.1 Citrobacter freundii strain RHBSTW-00435 chromosome, complete genome
+NZ_CP099385.1 Citrobacter braakii strain RHB09-SO-C07 chromosome, complete genome
+NZ_CP045198.1 Acinetobacter indicus strain TQ23 chromosome, complete genome
+NZ_CP125310.1 Citrobacter freundii strain CF5125 chromosome, complete genome
+NZ_OZ219274.1 Acanthopleuribacter pedis isolate A_pedis chromosome 1
+NZ_CP008802.1 Actinotignum schaalii strain CCUG 27420 chromosome, complete genome
+NZ_CP045771.1 Citrobacter braakii strain MiY-A chromosome, complete genome
+NZ_CP119075.1 Actomonas lomoniglobus strain LMO-M01 chromosome, complete genome
+NZ_CP074374.1 Candidatus Schneideria nysicola isolate NB chromosome, complete genome
+NZ_CP097750.1 Candidatus Blochmanniella camponoti strain C-050 chromosome, complete genome
+NZ_CP071766.1 Acinetobacter towneri strain GX3 chromosome, complete genome
+NZ_CP014070.2 Citrobacter amalonaticus strain FDAARGOS_165 chromosome, complete genome
+NZ_CP055153.1 Adhaeribacter radiodurans strain KUDC8001 chromosome, complete genome
+NZ_CP149131.1 Citrobacter europaeus strain WF0003 chromosome, complete genome
+NZ_CP174122.1 Acetobacterium malicum subsp. dehalogenans DSM 11527 chromosome, complete genome
+NZ_CP059572.1 Actinomadura graeca strain 32-07 chromosome, complete genome
+NZ_CP040698.1 Citrobacter freundii strain R47 chromosome R47, complete sequence
+NZ_CP025197.1 Acetivibrio saccincola strain GGR1 chromosome, complete genome
+NZ_CP117475.1 Citrobacter freundii strain BC73 chromosome, complete genome
+NZ_CP011612.1 Citrobacter freundii strain CAV1321 chromosome, complete genome
+NZ_CP055421.1 Citrobacter freundii strain RHBSTW-00862 chromosome, complete genome
+NZ_CP042808.1 Acetobacter oryzoeni strain B6 chromosome, complete genome
+NZ_CP173357.1 Acetobacterium carbinolicum strain DSM 2925 chromosome, complete genome
+NZ_CP012871.1 [Enterobacter] lignolyticus strain G5 chromosome, complete genome
+NZ_CP065820.1 Acinetobacter seifertii strain S21 chromosome, complete genome
+NZ_CP115614.1 Citrobacter freundii strain 2022CK-00369 chromosome, complete genome
+NZ_CP110497.1 Candidatus Purcelliella pentastirinorum isolate OPOL1 chromosome, complete genome
+NC_014259.1 Acinetobacter oleivorans DR1, complete sequence
+NZ_CP019573.1 Abyssicoccus albus strain S31 chromosome, complete genome
+NZ_CP110894.1 Citrobacter freundii strain CF1807 chromosome, complete genome
+NZ_CM148580.1 Citrobacter braakii strain W412 chromosome, whole genome shotgun sequence
+NZ_CP071265.1 Citrobacter freundii strain MEI002 chromosome, complete genome
+NZ_CP066049.1 Actinomyces naeslundii strain FDAARGOS_1037 chromosome, complete genome
+NZ_CP126980.1 Actinoplanes oblitus strain NRRL 3884 chromosome, complete genome
+NZ_CP025198.1 Acidipropionibacterium virtanenii strain JS278 chromosome, complete genome
+NZ_CP115060.1 Citrobacter freundii strain 2020CK-00252 chromosome, complete genome
+NZ_CP099386.1 Citrobacter braakii strain RHB09-E4-C01 chromosome, complete genome
+NZ_CP142904.1 Citrobacter freundii strain B18196 chromosome, complete genome
+NZ_CP097752.1 Blochmannia endosymbiont of Camponotus sp. C-046 chromosome, complete genome
+NZ_CP038658.1 Citrobacter freundii strain 680 chromosome, complete genome
+NC_016627.1 Acetivibrio clariflavus DSM 19732, complete sequence
+NZ_CP056238.1 Citrobacter freundii strain RHBSTW-00935 chromosome, complete genome
+NZ_CP093332.1 Buttiauxella ferragutiae strain H4-C11 chromosome, complete genome
+NZ_CP135450.1 Citrobacter freundii strain isolateL chromosome, complete genome
+NZ_CP169377.1 Citrobacter braakii strain WF0082 chromosome, complete genome
+NZ_CP083651.1 Citrobacter amalonaticus strain FDAARGOS_1489 chromosome, complete genome
+NZ_CP097758.1 Blochmannia endosymbiont of Camponotus modoc strain C-019 chromosome, complete genome
+NZ_CP115091.1 Citrobacter freundii strain 2022CK-00397 chromosome, complete genome
+NZ_LR215050.1 Acholeplasma hippikon strain NCTC10172 chromosome 1
+NZ_LN999833.1 Candidatus Doolittlea endobia isolate DEMHIR chromosome I, complete sequence
+NZ_CP101092.1 Citrobacter cronae strain OT70 chromosome, complete genome
+NZ_CP124813.1 Citrobacter freundii strain CF12 chromosome, complete genome
+NZ_CP046502.1 Citrobacter freundii strain 111 chromosome, complete genome
+NZ_CP066119.1 Acinetobacter bereziniae strain GD03185 chromosome, complete genome
+NZ_AP028957.1 Atlantibacter hermannii strain VNF293 chromosome, complete genome
+NZ_CP049801.1 Acinetobacter shaoyimingii strain 323-1 chromosome, complete genome

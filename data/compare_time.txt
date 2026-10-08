@@ -1,0 +1,10 @@
+[K
+== This is sourmash version 4.9.4. ==
+[K== Please cite Irber et. al (2024), doi:10.21105/joss.06830. ==
+
+[Kloading 'data/sketches.sig.zip'[K...loading from 'data/sketches.sig.zip' / 10 sigs total[K...loading from 'data/sketches.sig.zip' / 20 sigs total[K...loading from 'data/sketches.sig.zip' / 30 sigs total[K...loading from 'data/sketches.sig.zip' / 40 sigs total[K...loading from 'data/sketches.sig.zip' / 50 sigs total[K...loading from 'data/sketches.sig.zip' / 60 sigs total[K...loading from 'data/sketches.sig.zip' / 70 sigs total[K...loading from 'data/sketches.sig.zip' / 80 sigs total[K...loading from 'data/sketches.sig.zip' / 90 sigs total[K...loading from 'data/sketches.sig.zip' / 100 sigs total[K...loading from 'data/sketches.sig.zip' / 110 sigs total[K...loading from 'data/sketches.sig.zip' / 120 sigs total[K...loading from 'data/sketches.sig.zip' / 130 sigs total[K...loading from 'data/sketches.sig.zip' / 140 sigs total[K...loading from 'data/sketches.sig.zip' / 150 sigs total[K...loading from 'data/sketches.sig.zip' / 160 sigs total[K...loading from 'data/sketches.sig.zip' / 170 sigs total[K...loading from 'data/sketches.sig.zip' / 180 sigs total[K...loading from 'data/sketches.sig.zip' / 190 sigs total[K...loading from 'data/sketches.sig.zip' / 200 sigs total[KLoaded 200 sigs from 'data/sketches.sig.zip'[K                                                                               [Kloaded 200 signatures total.
+[K
+[KWARNING: Some of these sketches may have no hashes in common based on chance alone (false negatives). Consider decreasing your scaled value to prevent this.
+[Ksaving labels to: data/compare.np.labels.txt
+[Ksaving comparison matrix to: data/compare.np
+11.003 sec

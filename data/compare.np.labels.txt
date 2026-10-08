@@ -1,0 +1,200 @@
+NZ_CP197096.1 Acidithiobacillus sibiricus strain A1 chromosome, complete genome
+NZ_CP148753.1 Achromobacter veterisilvae strain AB1 chromosome, complete genome
+NZ_CP071766.1 Acinetobacter towneri strain GX3 chromosome, complete genome
+NZ_CP035282.1 Acidilutibacter cellobiosedens strain JN-28 chromosome, complete genome
+NZ_OY726395.1 [Mycobacterium] wendilense strain Mu0050 isolate Mu0050 chromosome 1, complete sequence
+NZ_CP116458.1 Acidithiobacillus ferriphilus strain YL25 chromosome, complete genome
+NZ_CP036170.1 [Clostridium] scindens ATCC 35704 chromosome, complete genome
+NZ_LR215050.1 Acholeplasma hippikon strain NCTC10172 chromosome 1
+NZ_CP065027.1 Actinomyces trachealis strain zg-993 chromosome, complete genome
+NC_022549.1 Acholeplasma brassicae, complete sequence
+NZ_CP049801.1 Acinetobacter shaoyimingii strain 323-1 chromosome, complete genome
+NZ_AP043921.1 Acetobacter okinawensis JCM 25146 chromosome, complete genome
+NZ_AP043913.1 Acetivibrio straminisolvens strain JCM 21531 chromosome, complete genome
+NZ_CP015425.1 [Haemophilus] ducreyi strain VAN2 chromosome, complete genome
+NZ_AP018365.1 Actinacidiphila reveromycinica strain SN-593 chromosome
+NZ_CP066049.1 Actinomyces naeslundii strain FDAARGOS_1037 chromosome, complete genome
+NZ_AP031589.1 Acidocella aluminiidurans strain AL46 chromosome, complete genome
+NZ_CP035934.2 Acinetobacter cumulans strain WCHAc060092 chromosome, complete genome
+NZ_CM174445.1 Acidisoma sibiricum strain TPB606 chromosome, whole genome shotgun sequence
+NZ_CP059558.1 Acinetobacter junii strain YR7 chromosome, complete genome
+NZ_CP034726.1 Acetilactobacillus jinshanensis strain HSLZ-75 chromosome, complete genome
+NZ_CP031716.1 Acinetobacter wuhouensis strain WCHA60 chromosome, complete genome
+NZ_CM166503.1 Actinoplanes siamensis strain TBRC 4237 chromosome, whole genome shotgun sequence
+NZ_CP044483.1 Acinetobacter schindleri strain HZE30-1 chromosome, complete genome
+NZ_AP023356.1 Actinoplanes ianthinogenes strain NBRC 13996 chromosome, complete genome
+NZ_CM166493.1 Acidovorax radicis N35 chromosome, whole genome shotgun sequence
+NZ_CP098732.1 Acinetobacter tibetensis strain Y-23 chromosome, complete genome
+NZ_CP173357.1 Acetobacterium carbinolicum strain DSM 2925 chromosome, complete genome
+NC_014618.1 [Enterobacter] lignolyticus SCF1, complete sequence
+NZ_CP055156.1 Adhaeribacter swui strain KCTC 52873 chromosome, complete genome
+NZ_CP095732.1 Abyssibius alkaniclasticus strain 960558 chromosome, complete genome
+NZ_CP016895.1 Acinetobacter larvae strain BRTC-1 chromosome, complete genome
+NZ_CP039846.2 Acetobacter pasteurianus strain CICC 22518 chromosome, complete genome
+NC_012483.1 Acidobacterium capsulatum ATCC 51196, complete sequence
+NC_005966.1 Acinetobacter baylyi ADP1, complete sequence
+NC_014259.1 Acinetobacter oleivorans DR1, complete sequence
+NZ_CP124070.1 Borreliella finlandensis strain Z11 chromosome, complete genome
+NZ_CP068211.1 Achromobacter xylosoxidans strain FDAARGOS_1091 chromosome, complete genome
+NZ_CP124050.1 Borreliella lusitaniae strain PotiB2 chromosome, complete genome
+NC_009925.1 Acaryochloris marina MBIC11017, complete sequence
+NZ_LR134350.1 Actinomyces howellii strain NCTC11636 chromosome 1, complete sequence
+NZ_CP053987.1 Achromobacter denitrificans strain FDAARGOS_786 chromosome, complete genome
+NZ_CP102272.1 [Clostridium] asparagiforme DSM 15981 chromosome, complete genome
+NZ_CP045198.1 Acinetobacter indicus strain TQ23 chromosome, complete genome
+NZ_CP155569.1 [Mycoplasma] cavipharyngis strain 117C chromosome, complete genome
+NC_014248.1 'Nostoc azollae' 0708, complete sequence
+NZ_CP066119.1 Acinetobacter bereziniae strain GD03185 chromosome, complete genome
+NC_011992.1 [Acidovorax] ebreus TPSY, complete sequence
+NZ_CP039292.1 Actinomyces procaprae strain dk561 chromosome, complete genome
+NZ_CP055153.1 Adhaeribacter radiodurans strain KUDC8001 chromosome, complete genome
+NZ_CP053391.1 Acinetobacter lactucae isolate QL-1 chromosome, complete genome
+NZ_LR134310.1 Actinobacillus equuli strain NCTC8529 chromosome 1, complete sequence
+NZ_CP176394.1 Acidaminobacterium chupaoyuni strain LBM23126 chromosome, complete genome
+NZ_CP030140.1 [Mycoplasma] anseris strain ATCC 49234 chromosome, complete genome
+NZ_CP118963.1 Acinetobacter lwoffii strain DSM 2403 chromosome, complete genome
+NZ_CP036263.1 Adhaeretor mobilis strain HG15A2 chromosome, complete genome
+NZ_CP125628.1 [Clostridium] symbiosum strain LM19R chromosome, complete genome
+NZ_CP021524.1 Acetobacter ascendens strain SRCM101447 chromosome, complete genome
+NZ_CP045571.1 Acidithiobacillus thiooxidans ATCC 19377 chromosome, complete genome
+NZ_LR746496.1 Acididesulfobacillus acetoxydans isolate PacBioINE chromosome 1
+NZ_CP025197.1 Acetivibrio saccincola strain GGR1 chromosome, complete genome
+NZ_AP018795.1 Acidithiobacillus ferridurans strain JCM 18981 chromosome, complete genome
+NZ_CP192460.1 Acidovorax facilis strain 37c5 chromosome, complete genome
+NZ_AP023354.1 Actinocatenispora sera strain NBRC 101916 chromosome
+NZ_CP009159.1 Actinobacillus suis ATCC 33415 chromosome, complete genome
+NZ_CP119075.1 Actomonas lomoniglobus strain LMO-M01 chromosome, complete genome
+NZ_CP060096.1 Aceticella autotrophica strain 3443-3Ac chromosome, complete genome
+NZ_CP129113.1 Aciduricibacillus chroicocephali strain 44XB chromosome, complete genome
+NZ_CP043909.1 Acinetobacter suaedae strain C16S1 chromosome, complete genome
+NZ_CP043506.1 Acetobacter vaccinii strain KACC 21233 chromosome, complete genome
+NZ_CP157428.1 Acinetobacter sp. XH1741 chromosome, complete genome
+NZ_AP025566.1 [Clostridium] hylemonae strain CE91-St63 chromosome, complete genome
+NZ_CP157435.1 Acinetobacter sp. XH1639 chromosome, complete genome
+NZ_AP035783.1 Acidovorax sacchari strain HC-19 chromosome, complete genome
+NZ_OY726394.1 [Mycobacterium] kokjensenii strain Mu0083 isolate Mu0083 chromosome 1, complete sequence
+NZ_CP066060.1 Actinomyces oris strain FDAARGOS_1051 chromosome, complete genome
+NZ_CP109144.1 Actinacidiphila glaucinigra strain NBC 01746 chromosome, complete genome
+NZ_CP136960.1 Actinotignum timonense strain UMB0063 chromosome, complete genome
+NC_017093.1 Actinoplanes missouriensis 431, complete sequence
+NC_013740.1 Acidaminococcus fermentans DSM 20731, complete sequence
+NZ_CP041970.1 Acinetobacter dispersus strain NCCP 16014 chromosome, complete genome
+NZ_CP059488.1 Acidithiobacillus ferrivorans strain XJFY6S-08 chromosome, complete genome
+NC_016603.1 Acinetobacter pittii PHEA-2 chromosome, complete genome
+NZ_CP196670.1 Acinetobacter bohemicus strain E2PVAC1 chromosome, complete genome
+NZ_CP030880.1 Acinetobacter haemolyticus strain HW-2A chromosome, complete genome
+NZ_CP127526.1 Acidithiobacillus montserratensis strain GG1-14 chromosome, complete genome
+NZ_CP017415.1 Acidihalobacter yilgarnensis strain F5 chromosome, complete genome
+NZ_CP063418.1 Actinomyces faecalis strain ZJ34 chromosome, complete genome
+NZ_CP045110.1 Acinetobacter baumannii strain ATCC 19606 chromosome, complete genome
+NZ_CP025198.1 Acidipropionibacterium virtanenii strain JS278 chromosome, complete genome
+NZ_CP148066.1 [Mycoplasma] gypis strain B1/T1 chromosome, complete genome
+NC_009012.1 Acetivibrio thermocellus ATCC 27405, complete sequence
+NC_009655.1 Actinobacillus succinogenes 130Z, complete sequence
+NZ_LN606600.1 Acetobacter senegalensis strain 108B chromosome I, complete sequence
+NZ_CP157432.1 Acinetobacter nosocomialis strain XH1679 chromosome, complete genome
+NZ_CP127527.1 Acidithiobacillus sulfuriphilus strain CJ-2 chromosome, complete genome
+NZ_AP014630.1 Acinetobacter guillouiae strain NBRC 110550 chromosome, complete genome
+NZ_CP080624.1 Acidiferrobacter thiooxydans strain ZJ chromosome, complete genome
+NZ_CP030840.1 Acidisarcina polymorpha strain SBC82 chromosome, complete genome
+NZ_OW712331.1 [Clostridium] colinum strain DSM 6011 chromosome 1, complete sequence
+NZ_OZ260903.1 Acetobacter cerevisiae strain VUB-H039 E5 isolate ACVUBH039E5 chromosome 1, complete sequence
+NZ_AP028461.1 Actinoplanes sichuanensis strain 03-723 chromosome, complete genome
+NZ_CP059572.1 Actinomadura graeca strain 32-07 chromosome, complete genome
+NC_022657.1 Actinoplanes friuliensis DSM 7358, complete sequence
+NZ_CP044535.1 Borrelia maritima strain CA690 chromosome, complete genome
+NZ_CP097897.1 Acetobacterium wieringae strain CH1 chromosome, complete genome
+NZ_AP024595.1 Acinetobacter bouvetii strain JCM 18991 chromosome, complete genome
+NZ_CP124034.1 Borreliella tanukii strain Koshiki4E chromosome, complete genome
+NZ_CP016076.1 Actinoalloteichus fjordicus strain ADI127-7 chromosome, complete genome
+NC_008578.1 Acidothermus cellulolyticus 11B, complete sequence
+NZ_CP174122.1 Acetobacterium malicum subsp. dehalogenans DSM 11527 chromosome, complete genome
+NZ_LR134361.1 Achromobacter insolitus strain NCTC13520 chromosome 1, complete sequence
+NZ_CP132976.1 Achromobacter seleniivolatilans strain R39 chromosome, complete genome
+NZ_CP126980.1 Actinoplanes oblitus strain NRRL 3884 chromosome, complete genome
+NZ_CP022521.1 Actinoalloteichus hoggarensis strain DSM 45943 chromosome, complete genome
+NC_015186.1 Acidiphilium multivorum AIU301, complete sequence
+NZ_CP156787.1 Acinetobacter thermotolerans strain ANC 7924 chromosome, complete genome
+NZ_CP029206.1 Actinobacillus porcitonsillarum strain 9953L55 chromosome, complete genome
+NC_016627.1 Acetivibrio clariflavus DSM 19732, complete sequence
+NZ_CP023865.1 Actinoplanes teichomyceticus ATCC 31121 chromosome, complete genome
+NZ_CP029397.2 Acinetobacter defluvii strain WCHA30 chromosome, complete genome
+NZ_OY726397.1 [Mycobacterium] burgundiense strain Mu0053 isolate Mu0053 chromosome 1, complete sequence
+NZ_CP073241.1 Acinetobacter soli strain M3-1-68 chromosome, complete genome
+NZ_CP025228.1 Actinomyces qiguomingii strain actinomyces sp. 410 chromosome, complete genome
+NZ_CP146086.1 Actinomadura luteofluorescens strain YN2 chromosome, complete genome
+NC_013124.1 Acidimicrobium ferrooxidans DSM 10331, complete sequence
+NZ_CP125669.1 Acinetobacter corruptisaponis strain KCTC 92772 chromosome, complete genome
+NC_015850.1 Acidithiobacillus caldus SM-1, complete sequence
+NZ_CP049916.1 Acinetobacter lanii strain 185 chromosome, complete genome
+NC_014378.1 Acetohalobium arabaticum DSM 5501, complete sequence
+NZ_CP117193.1 Acidovorax temperans strain LMJ chromosome, complete genome
+NZ_AP012977.1 Abyssogena phaseoliformis symbiont OG214 chromosome, complete genome
+NZ_CP030753.1 Actinobacillus pleuropneumoniae strain S4074 chromosome, complete genome
+NZ_CP020468.1 Actinomyces gaoshouyii strain pika_114 chromosome, complete genome
+NZ_CP130328.1 Acinetobacter variabilis strain TB2-2B chromosome, complete genome
+NZ_CP178606.1 Acinetobacter sp. A7.4 chromosome, complete genome
+NZ_CP065820.1 Acinetobacter seifertii strain S21 chromosome, complete genome
+NZ_CP192011.1 Actinomadura formosensis strain CS-045256 chromosome, complete genome
+NZ_CP017717.1 [Actinomadura] parvosata subsp. kistnae strain ATCC 55076 chromosome, complete genome
+NC_011761.1 Acidithiobacillus ferrooxidans ATCC 23270, complete sequence
+NZ_CP022374.1 Acetobacter oryzifermentans strain dm chromosome, complete genome
+NZ_AP029188.1 [Clostridium] nexile DSM 1787 chromosome, complete genome
+NZ_CP127523.1 Acidithiobacillus ferrianus strain MG chromosome, complete genome
+NZ_CP053642.1 Actinomyces marmotae strain zg-325 chromosome, complete genome
+NZ_CP021359.1 Acidovorax carolinensis strain NA2 chromosome, complete genome
+NZ_CP124018.1 Borreliella turdi strain Ya501 chromosome, complete genome
+NC_006300.1 [Mannheimia] succiniciproducens MBEL55E, complete sequence
+NZ_CM136904.1 Cellulomonas bogoriensis strain 69B4 chromosome, whole genome shotgun sequence
+NZ_CP094358.1 Abyssalbus ytuae strain MT3330 chromosome, complete genome
+NZ_CP022752.1 Actinopolyspora erythraea strain YIM 90600 chromosome, complete genome
+NZ_AP025017.1 Actinomyces capricornis strain MAS-1 chromosome, complete genome
+NZ_CP063989.1 Actinomyces respiraculi strain ZJ750 chromosome, complete genome
+NZ_CP053988.1 Abiotrophia defectiva strain FDAARGOS_785 chromosome, complete genome
+NZ_CP040635.1 Acidipropionibacterium jensenii strain FAM 19038 chromosome, complete genome
+NZ_CP154825.1 Actinokineospora auranticolor strain DSM 44650 chromosome, complete genome
+NC_014614.1 Acetoanaerobium sticklandii, complete sequence
+NZ_CP123364.1 Achromobacter mucicolens strain Y3 chromosome, complete genome
+NZ_OZ260804.1 Acetobacter orientalis strain VUB-H056 E3 isolate AOVUBH056E3 chromosome 1, complete sequence
+NZ_CP042808.1 Acetobacter oryzoeni strain B6 chromosome, complete genome
+NZ_CP071409.1 [Pantoea] beijingensis strain JZB2120001 chromosome, complete genome
+NZ_CP139781.1 Actomonas aquatica strain WL0086 chromosome, complete genome
+NZ_CP029295.1 [Mycoplasma] phocae strain 105 chromosome, complete genome
+NZ_CP066802.1 Actinomyces weissii strain CCUG 61299 chromosome, complete genome
+NZ_CP083237.1 Actinomadura madurae strain ATCC 19425 chromosome, complete genome
+NZ_CP014859.1 Actinoalloteichus hymeniacidonis strain HPA177 chromosome, complete genome
+NZ_CP130946.1 Acidithiobacillus ferruginosus strain CF3 chromosome, complete genome
+NC_014376.1 [Clostridium] saccharolyticum WM1, complete sequence
+NZ_CP126994.1 Acidisoma cladoniae strain PAMC 29798 chromosome, complete genome
+NZ_AP029191.1 Actinomadura rugatobispora strain JCM 3366 chromosome, complete genome
+NZ_CP013126.1 Acidipropionibacterium acidipropionici strain CGMCC 1.2230 chromosome, complete genome
+NZ_CP124548.1 Actinomyces israelii strain F0345 chromosome, complete genome
+NZ_CP029176.1 Acidibrevibacterium fodinaquatile strain G45-3 chromosome, complete genome
+NC_014219.1 [Bacillus] selenitireducens MLS10, complete sequence
+NZ_LR134477.1 Actinomyces viscosus strain NCTC10951 chromosome 1, complete sequence
+NZ_CP045650.1 Acinetobacter wanghuae strain dk386 chromosome, complete genome
+NZ_AP023355.1 Actinocatenispora thailandica strain NBRC 105041 chromosome
+NZ_CP008802.1 Actinotignum schaalii strain CCUG 27420 chromosome, complete genome
+NZ_CP014228.1 Actinomyces radicidentis strain CCUG 36733 chromosome, complete genome
+NZ_CP048838.1 [Clostridium] innocuum strain ATCC 14501 chromosome, complete genome
+NZ_LR134363.1 Actinomyces slackii strain NCTC11923 chromosome 1, complete sequence
+NC_013093.1 Actinosynnema mirum DSM 43827, complete sequence
+NZ_CP032134.1 Acinetobacter chinensis strain WCHAc010005 chromosome, complete genome
+NZ_CP103833.1 Actinobacillus arthritidis strain CCUG24862 chromosome, complete genome
+NC_016894.1 Acetobacterium woodii DSM 1030, complete sequence
+NZ_CP038145.1 Actinobacillus indolicus strain AIFJ1607 chromosome, complete genome
+NZ_OZ219274.1 Acanthopleuribacter pedis isolate A_pedis chromosome 1
+NZ_CP025030.1 Achromobacter spanius strain DSM 23806 chromosome, complete genome
+NZ_CP012808.1 Acinetobacter equi strain 114 chromosome, complete genome
+NZ_CP023445.1 Actinosynnema pretiosum strain X47 chromosome, complete genome
+NZ_CP186005.1 Actinoalloteichus caeruleus strain LHW52806 chromosome, complete genome
+NZ_CP098611.1 [Phormidium] yuhuli AB48 chromosome, complete genome
+NZ_CP045851.1 Actinomarinicola tropica strain SCSIO 58843 chromosome, complete genome
+NZ_CP019573.1 Abyssicoccus albus strain S31 chromosome, complete genome
+NC_010163.1 Acholeplasma laidlawii PG-8A, complete sequence
+NZ_CP102292.1 [Ruminococcus] lactaris ATCC 29176 chromosome, complete genome
+NZ_CP030031.1 Acinetobacter radioresistens strain LH6 chromosome, complete genome
+NZ_CP025227.1 Actinomyces wuliandei strain 299 chromosome, complete genome
+NZ_OY726398.1 [Mycobacterium] holstebronense strain Mu0102 isolate Mu0102 chromosome 1, complete sequence
+NZ_CP102249.1 Acidaminococcus intestini strain D21 chromosome, complete genome
+NZ_LR134510.1 Actinobacillus delphinicola strain NCTC12871 chromosome 1, complete sequence

@@ -1,0 +1,2 @@
+data/sub/nano.fastq.gz
+results/nanopore_filtered.fastq.gz

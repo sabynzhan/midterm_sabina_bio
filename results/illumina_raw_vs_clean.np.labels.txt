@@ -1,0 +1,2 @@
+data/sub/ill_1.fastq.gz
+results/ill_R1_clean.fastq.gz

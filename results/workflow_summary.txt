@@ -1,0 +1,10 @@
+Bioinformatics Sketching Project
+================================
+Test genomes: 2
+Source: NCBI RefSeq bacterial genomes
+Sketch method: MinHash / sourmash
+k-mer size: 31
+Scaled parameter: 1000
+Workflow: sketch -> index -> search
+Search query: genome1.fna
+Result: results/test_search.csv

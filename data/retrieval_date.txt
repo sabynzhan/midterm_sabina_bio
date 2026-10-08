@@ -1,1 +1,3 @@
-2026-10-06
+Genome collection retrieval date: 2026-10-06
+Source: NCBI RefSeq bacterial genomes
+Collection size used in the project: 500 complete bacterial genomes
