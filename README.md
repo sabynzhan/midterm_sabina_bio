@@ -1,6 +1,6 @@
 # Sketching: Searching a Million Genomes Without Aligning Any
 
-## Bioinformatics Midterm Project — Project 29
+## Bioinformatics Midterm Project: Project 29
 
 This project develops a sketch-based genome similarity search workflow using MinHash sketches instead of full pairwise sequence alignment.
 
